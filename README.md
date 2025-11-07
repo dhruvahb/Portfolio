@@ -1,79 +1,114 @@
-# sudeep Portfolio
 
-![Portfolio Preview](https://avatars.githubusercontent.com/u/86517389?v=4)
 
----
+```markdown
+# 🌐 Personal Portfolio Website
 
-## Table of Contents
-
-- [About](#about)
-- [Background](#background)
-- [Experience](#experience)
-- [Education](#education)
-- [Projects](#projects)
-- [Certifications](#certifications)
-- [Social Media](#social-media)
-- [Contributing](#contributing)
+This is the **personal portfolio website** of **Dhruva Halesara Balaraj**, built using **HTML, CSS, and JavaScript**.  
+The website showcases my academic background, professional experience, technical skills, projects, and achievements in the field of **Computer Science, Artificial Intelligence, and Data Science**.
 
 ---
 
-## About
+## 🧭 Overview
 
-Welcome to my portfolio! I'm Sudeep, a Developer, Tech Enthusiast, and Coder. This portfolio showcases my skills, experience, education, projects, and certifications.
+The portfolio serves as an interactive resume and project showcase.  
+It provides a quick overview of my:
+- Education and certifications  
+- Technical and soft skills  
+- Work experience  
+- Research publications and projects  
+- Contact and social links  
 
----
-
-## Background
-
-### Experience
-
-- **Web Development Intern** at Udupi Web Solutions Pvt Ltd (Aug 2023 - Oct 2023)
-
-### Education
-
-- **BE in Computer Science and Engineering** at Visvesvaraya Technological University (2020 - Present)
-- **Pre-University Course** at Poornaprajna College (2018 - 2020)
-- **Secondary Schools** at Govt High School Brahmavar (2015 - 2018)
+The goal of this website is to create a professional online presence and make it easy for recruiters, collaborators, and universities to learn more about my work.
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-- **Sentimental Analysis and Social Media** (Aug 2023 - Present)
-  - Web app for sentiment analysis using HTML, CSS, ReactJS, TypeScript, Django, Python, and MySQL.
-- **Blood Bank System** (Aug 2023 - Oct 2023)
-  - Web app for blood donation and inventory tracking using HTML, CSS, Bootstrap, PHP, and MySQL.
-
----
-
-##Holopin Badges
-
-[![An image of @sudeepmshetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepmshetty)](https://holopin.io/@sudeepmshetty)
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript (Vanilla JS) |
+| **Design** | Responsive Layout, Flexbox/Grid |
+| **Version Control** | Git & GitHub |
+| **Deployment** | GitHub Pages / Netlify (optional) |
 
 ---
 
-## Certifications
+---
 
-- [Introduction to Java](https://www.coursera.org/account/accomplishments/verify/4US8CGQB4KFW) - Coursera (Dec 2022)
-- [Introduction to Communication Science](https://www.coursera.org/account/accomplishments/verify/C2ABTVUKV88S) - Coursera (Jan 2023)
-- [GitLab 101 Certification](https://university.gitlab.com/c/xa4_TWijS_KeG-fziX0-6A) - GitLab Inc. (May 2024)
-- [Introduction to Cybersecurity](https://www.credly.com/badges/1faa6068-b65c-4178-9a0f-607c7d5878ca/public_url) - Cisco Network Academy (Jul 2023)
-- [React (Basic) Certificate](https://www.hackerrank.com/certificates/12f449ac5355) - HackerRank (Mar 2024)
-- [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/pLVhgtgXSES-qMfU1mM2dg) - Postman (Jul 2023)
-- [Python Fundamentals for Beginners](https://olympus.mygreatlearning.com/courses/12682/certificate) - Great Learning Academy (Aug 2022)
+## ✨ Features
+
+- 🎨 **Clean and modern design** with smooth animations  
+- 📱 **Fully responsive** — adapts to all screen sizes  
+- ⚡ **Fast loading** and optimized structure  
+- 🧠 **Showcases research and AI projects**  
+- 🔗 **Direct links** to LinkedIn, GitHub, and email  
 
 ---
 
-## Social Media
+## 🚀 Getting Started
 
-Connect with me:
+### 1. Clone the repository
+```bash
+git clone https://github.com/<your-username>/portfolio.git
+````
 
-- [LinkedIn](https://www.linkedin.com/in/sudeepmshetty6984/)
-- [Dev.to](https://dev.to/sudeepmshetty)
-- [GitHub](https://github.com/SUDEEP-M-SHETTY)
+### 2. Open in a code editor
+
+Use **VS Code** or any text editor of your choice.
+
+### 3. Run locally
+
+Simply open `index.html` in your web browser.
+
+### 4. Deploy online
+
+You can host it for free using:
+
+* [GitHub Pages](https://pages.github.com/)
+* [Netlify](https://www.netlify.com/)
+* [Vercel](https://vercel.com/)
 
 ---
 
-## Contributing
+## 🧩 Customization
 
-Feel free to contribute to this portfolio by visiting [GitHub](https://github.com/SUDEEP-M-SHETTY/Portfolio). All contributions are welcome!
+* Update `index.html` with your own bio and details.
+* Replace placeholder images in `/assets/images`.
+* Modify color schemes in `style.css`.
+* Add interactivity or animations in `script.js`.
+
+---
+
+## 📬 Contact
+
+**Dhruva Halesara Balaraj**
+📧 Email: [dhruvahb15@gmail.com](mailto:dhruvahb15@gmail.com)
+🔗 LinkedIn: [linkedin.com/in/dhruvahb15](https://www.linkedin.com/in/dhruvahb15/)
+📞 Phone: +91 9741362564
+
+---
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+You’re welcome to use and adapt it for your own portfolio!
+
+---
+
+### 💡 Future Enhancements
+
+* Add dark/light mode toggle
+* Integrate contact form with EmailJS or Formspree
+* Include blog section for research updates
+* Add animations using GSAP or Framer Motion
+
+---
+
+⭐ **If you like this project, feel free to star the repo and share your feedback!**
+
+```
+
+---
+
+Would you like me to make it more **GitHub-optimized** (with shields, emojis, and deploy buttons), or keep it in this clean professional style for academic use (e.g., for your Master’s applications)?
+```
