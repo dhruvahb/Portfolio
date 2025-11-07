@@ -1,0 +1,134 @@
+/* Reset and basics */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #fdfdfd;
+    color: #111;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header */
+header {
+    background: #f0f0f0;
+    padding: 1.5rem 0;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 0.5rem;
+}
+
+header p {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+}
+
+#theme-toggle {
+    padding: 0.3rem 0.6rem;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+/* Navigation */
+nav {
+    background: #e0e0e0;
+    padding: 0.5rem 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+nav li {
+    margin: 0 1rem;
+}
+
+/* Main content */
+.container {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+section h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.3rem;
+    margin-bottom: 1rem;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 0.5rem;
+}
+
+table td {
+    padding: 0.3rem 0.6rem;
+}
+
+ul {
+    margin-top: 0.5rem;
+    padding-left: 1.2rem;
+}
+
+/* Buttons */
+.resume-btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background: #0066cc;
+    color: white;
+    border-radius: 4px;
+    margin-top: 1rem;
+}
+
+.resume-btn:hover {
+    background: #004999;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #f0f0f0;
+    margin-top: 2rem;
+}
+
+/* Dark theme */
+body.dark {
+    background-color: #111;
+    color: #fdfdfd;
+}
+
+body.dark header,
+body.dark footer {
+    background-color: #222;
+}
+
+body.dark nav {
+    background-color: #222;
+}
+
+body.dark a {
+    color: #4ea3ff;
+}
